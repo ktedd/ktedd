@@ -9,6 +9,6 @@
     <h1>Hi, there!</h1>
     <h2>A little info about me!</h2>
     <p> I am currently studying graphic information technology at Arizona State University! Currently I am really enjoying how to code!</p>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ktedd&show_icons=true&theme=radical)
 </body>  
 </html>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ktedd&show_icons=true&theme=radical)
