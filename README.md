@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <body>
-    <h1>Hi, there!</h1>
+    <h1>Hello!</h1>
     <h2>A little info about me!</h2>
     <p> I am currently studying graphic information technology at Arizona State University! Currently I am really enjoying how to code!</p>
 </body>  
