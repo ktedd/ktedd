@@ -11,4 +11,5 @@
     <p> I am currently studying graphic information technology at Arizona State University! Currently I am really enjoying how to code!</p>
 </body>  
 </html>
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ktedd&show_icons=true&theme=radical)
